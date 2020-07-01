@@ -1,5 +1,5 @@
 variable environment {
   description = ""
   type        = string
-  default     = "development-jsp"
+  default     = "development"
 }
